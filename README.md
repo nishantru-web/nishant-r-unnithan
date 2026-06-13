@@ -1,25 +1,23 @@
 # nishant-r-unnithan
 Hi, I'm Nishant R Unnithan
 
-Enterprise Sales Leader | Cybersecurity & Cloud | India & APAC Market, EMEA ans NA 
-nishant.ru@gmail.com
-https://linkedin.com/in/nishant-r-unnithan-979
-Location-Bangalore
+Enterprise Sales Leader | Client Partner | Strategic Accounts | Enterprise Sales | NA EMEA India & APAC Markets | Cybersecurity | Cloud & Managed Services | Strategic Accounts| Global Alliances/ITES sales/Hospitality Sales/Supply Chain Managemnt 
+Bangalore, India | +91 8826066702 | nishant.ru@gmail.com
+linkedin.com/in/nishant-r-unnithan-979
+
 
 -----
 
 ## 🚀 About Me
 
-Dynamic enterprise sales and business development leader with **15+ years** of experience driving revenue growth across **India, APAC, NA, and EMEA** markets. I specialize in **cybersecurity**, cloud, and managed services — building strategic partnerships, managing multi-million-dollar portfolios, and engaging CXOs from Fortune 500 firms to high-growth enterprises.
+Enterprise Sales & Cybersecurity Leader with 18+ years of experience driving revenue growth, strategic account expansion, and enterprise client engagement across India, APAC, North America, and EMEA. Expertise in consultative selling, MEDDIC-led enterprise sales, pipeline management, sales forecasting, partner-led GTM, strategic partnerships, P&L ownership, and CXO stakeholder management across cybersecurity, cloud, managed services, and digital transformation.
+Generated USD 8M+ in net new sales at Atos, including USD 2.5M+ through partner-led channels, while acquiring 50+ new enterprise logos. Delivered USD 50M+ in career revenue and secured 175+ customer logos through direct sales, new business acquisition, strategic account growth, and partner ecosystem development across BFSI, Manufacturing, Pharma, Technology, Telecom, Energy, Hospitalit and GCC sectors.
 
-Most recently at **Atos / Eviden**, I owned strategic global accounts, generated **USD 8M+ in net-new revenue**, and built partner ecosystems that created multi-million-dollar joint pipelines.
-
------
 
 💼 What I Do
 
 ```
-🔐  Cybersecurity Sales       →  SOC, SIEM, VAPT, GRC, IAM, Cloud Security
+🔐  Cybersecurity Sales       →  MDR/XDR/EDR,SOC, SIEM, VAPT, GRC, IAM, Risk Management, OEM, Digital Transformation Cloud Security,P&L management, Team Managemnt
 ☁️  Cloud & Managed Services  →  Cross-sell / Upsell, SaaS, Digital Transformation
 🤝  Partner-led GTM           →  VARs, OEMs, MSPs, Hyperscalers, ISVs
 📊  Strategic Accounts        →  CXO Engagement, Pipeline Management, Forecasting
